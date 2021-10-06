@@ -4,10 +4,10 @@
     "total": 12,
     "total_pages": 2,
     "data": [{
-        "username": pmarti22@nd.edu,
+        "username": "pmarti22@nd.edu",
         "password": "cerulean"
     }, {
-        "username": agutier4@nd.edu,
+        "username": "agutier4@nd.edu",
         "password": "fuchsiarose",
     }],
     "support": {
